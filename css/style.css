@@ -28,9 +28,17 @@ div.col-sm-12.col-md-6{
     background-color: rgba(255, 255, 255, 0.4);
 }
 img.img-fluid{
-    max-width: 300px;
-    max-height: 300px;
-    border-radius: ;
+    width: 250px;
+    height: 250px;
+    max-height: 250px;
+    max-width: 250px;
+    border-radius: 100%;
+    border:solid 1px gray;
+    box-shadow:0 0 0.7rem black;
+    margin-top: 10px;
+}
+div.col-sm-3{
+    justify-content: center;
 }
 
 
