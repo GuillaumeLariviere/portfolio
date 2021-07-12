@@ -49,12 +49,16 @@ ul.list-group.list-group-flush li{
     font-size:50px;
 }
 .fa-js-square{
-    color:yellow;
+    color:rgb(245, 228, 0);
     font-size:50px;
 
 }
 div.col-6{
     display: block;
+}
+.col-6 p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
 /* mon cv css */
