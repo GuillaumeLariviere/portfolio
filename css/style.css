@@ -2,8 +2,7 @@ body{
     background-color: rgb(217, 241, 241) !important;
 }
 main{
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 /* layding page css */
 div.navbar-brand.text-white{
