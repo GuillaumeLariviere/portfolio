@@ -40,12 +40,24 @@ img.img-fluid{
 ul.list-group.list-group-flush li{
     background:rgb(247, 245, 245);
 }
+.fa-html5{
+    color:red;
+    font-size: 50px;
+}
+.fa-css3-alt{
+    color:blue;
+    font-size:50px;
+}
+.fa-js-square{
+    color:yellow;
+    font-size:50px;
 
+}
+div.col-6{
+    display: block;
+}
 
 /* mon cv css */
-.col-6{
-    
-}
 
 
 .foot{
