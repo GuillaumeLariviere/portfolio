@@ -73,3 +73,18 @@ div.col-6{
     bottom: 0;
     width: 100%;
 }
+/*mes projet*/
+
+.col-12.carouside{
+    max-width:1400px ;
+  
+}
+img.carouside{
+    height: 550px;
+    min-height: 450px;
+    max-height: 550px;
+
+}
+.projetMain{
+    text-align: center;
+}
